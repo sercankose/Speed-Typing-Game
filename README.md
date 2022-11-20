@@ -1,4 +1,4 @@
-#Speed Typing Game
+# Speed Typing Game
 
 I took the "Frontend Developer Career Path Certificate Program" on Scrimba. One of the course projects is Speed Typing Game. 
 This project was finished by completing the challenges step by step.
