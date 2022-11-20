@@ -1,3 +1,11 @@
+I took the "Frontend Developer Career Path Certificate Program" on Scrimba. One of the course projects is Speed Typing Game. This project was finished by completing the challenges step by step.
+
+You can measure 
+
+
+
+--------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
