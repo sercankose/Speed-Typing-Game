@@ -1,8 +1,6 @@
 I took the "Frontend Developer Career Path Certificate Program" on Scrimba. One of the course projects is Speed Typing Game. This project was finished by completing the challenges step by step.
 
-You can measure 
-
-
+In this game, you can measure how many words you write in 1 minute.
 
 --------------------------------------------------------------------
 
